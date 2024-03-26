@@ -1,0 +1,36 @@
+{
+  "name": "blockchain",
+  "version": "0.0.1",
+  "description": "A simple blockchain experiment with nodejs and express",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGWeb09/blockchain_nodejs.git"
+  },
+  "keywords": [
+    "blockchain",
+    "nodejs",
+    "blockchain"
+  ],
+  "author": "agweb09",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGWeb09/blockchain_nodejs/issues"
+  },
+  "homepage": "https://github.com/AGWeb09/blockchain_nodejs#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcrypt": "^5.0.1",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "fs": "^0.0.1-security",
+    "morgan": "^1.9.0",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.6",
+    "web3-eth-contract": "^1.7.5"
+  }
+}
