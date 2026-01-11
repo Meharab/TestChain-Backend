@@ -28,7 +28,7 @@
     "bcrypt": "^5.0.1",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "fs": "^0.0.1-security",
     "morgan": "^1.10.1",
     "request": "^2.88.2",
